@@ -26,6 +26,7 @@ O objetivo é desenvolver um modelo de _Machine Learning_ capaz de classificar c
 
 ---
 
+
 ## 📁 **Estrutura do Projeto**
 
 * `Churn_treino.csv`: Arquivo CSV contendo os dados de treino dos clientes.
