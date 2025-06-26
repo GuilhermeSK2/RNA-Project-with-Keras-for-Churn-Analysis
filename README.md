@@ -1,4 +1,4 @@
-# **Previsão de Churn de Clientes com Redes Neurais (Keras)**
+# **Previsão de Churn de Clientes com uma RNA (Keras)**
 
 ---
 
